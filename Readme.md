@@ -6,13 +6,13 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-aryanportfolio--theta.vercel.app-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://aryanportfolio-theta.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aryan--gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-gupta-871577240/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Knight%20(1943)-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/aryangupta_/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-3★%20(1639)-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/itss_levi)
 [![Codeforces](https://img.shields.io/badge/Codeforces-Pupil%20(1246)-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aryangupta_)
 [![Email](https://img.shields.io/badge/Email-aryangupta050903%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryangupta050903@gmail.com)
 
 <p align="center">
   🎓 <b>Birla Institute of Technology (BIT), Mesra</b> · B.Tech in Electronics and Communication Engineering (2023 – 2027) · <b>CGPA: 8.49 / 10</b><br/>
   💼 Software Developer Intern at <b>QOE Technologies and Services</b> (Soul Consciousness Lab)<br/>
-  🚀 Open-Source Contributor to <b><a href="https://github.com/kubernetes/minikube/pull/23835">Kubernetes / Minikube</a></b><br/>
   🎯 Actively seeking <b>Software Engineering (SDE), Backend, Full-Stack, and AI/ML Internship Opportunities</b>
 </p>
 
@@ -26,7 +26,7 @@ I am a software engineer focused on building **high-throughput backend architect
 
 - 🏎️ **Backend & Systems**: Deep experience with **FastAPI, Node.js/Express, C++17, PostgreSQL, Redis, and MongoDB**, designing RESTful APIs and multithreaded network engines.
 - 🤖 **Applied AI & RAG**: Built production-grade Retrieval-Augmented Generation workflows with **LangChain, SentenceTransformers, and FAISS**, leveraging Redis caching to drop inference query latency from **2.5s to under 15ms**.
-- 💡 **Algorithmic Problem Solving**: **750+ DSA problems solved**, **Knight on LeetCode (Rating 1943, Top 3.5%)**, with contest finishes in the **Global Top 285** on LeetCode and **Round 2 Qualifier** in **Google The Big Code 2026**.
+- 💡 **Algorithmic Problem Solving**: **750+ DSA problems solved**, **Knight on LeetCode (Rating 1943, Top 3.5%)**, **3-Star on CodeChef (Max Rating 1639)**, and **Pupil on Codeforces (1246)**, with contest finishes in the **Global Top 285** on LeetCode and **Round 2 Qualifier** in **Google The Big Code 2026**.
 
 ---
 
@@ -37,8 +37,8 @@ I am a software engineer focused on building **high-throughput backend architect
 | Platform | Achievement / Max Rating | Global Standing / Highlights |
 |:---|:---|:---|
 | **LeetCode** | **Knight** (Max Rating **1943**) | **Top 3.5%** globally · **Global Rank 285** (Weekly Contest 502) · **Global Rank 1,488** (Biweekly 184) |
-| **Codeforces** | **Pupil** (Rating **1246**) | Handle: [`aryangupta_`](https://codeforces.com/profile/aryangupta_) |
 | **CodeChef** | **3-Star** (Max Rating **1639**) | Handle: [`itss_levi`](https://www.codechef.com/users/itss_levi) |
+| **Codeforces** | **Pupil** (Rating **1246**) | Handle: [`aryangupta_`](https://codeforces.com/profile/aryangupta_) |
 | **Google The Big Code** | **Round 2 Qualifier (2026)** | **Top 1,500** nationwide qualifier |
 | **Problem Solving** | **750+ Problems Solved** | Strong foundations in Trees, Graphs, DP, Sorting/Searching, Flow Networks |
 | **JEE Main 2023** | **Top 3% Nationwide** | Out of 1.2+ Million Candidates |
@@ -130,16 +130,13 @@ I am a software engineer focused on building **high-throughput backend architect
 
 ---
 
-## 💼 Work Experience & Open Source
+## 💼 Work Experience
 
 ### 🏢 Software Developer Intern · **QOE Technologies and Services**
 *May 2026 – June 2026 · Remote*
 - Engineered core full-stack features for **Soul Consciousness Lab** using React.js, Node.js, Express.js, and MongoDB.
 - Built production-ready RESTful APIs with strict request validation, structured error handling, and robust CRUD capabilities.
 - Profiled frontend components to eliminate redundant API invocations, minimize unnecessary React re-renders, and implemented code-splitting with lazy loading to significantly boost page load speeds.
-
-### 🌐 Open Source Contributor · **Kubernetes / Minikube**
-- **[Pull Request #23835](https://github.com/kubernetes/minikube/pull/23835)**: Refactored and reused disk-image helpers across hypervisor drivers, improved filesystem error propagation, and added regression test coverage for storage drivers.
 
 ---
 
@@ -172,6 +169,7 @@ I am actively looking for **Software Engineering (SDE), Backend, Full-Stack, and
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-aryan--gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-gupta-871577240/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-aryanportfolio--theta.vercel.app-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://aryanportfolio-theta.vercel.app)
 [![LeetCode](https://img.shields.io/badge/LeetCode-aryangupta__-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/aryangupta_/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-itss__levi-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/itss_levi)
 [![Codeforces](https://img.shields.io/badge/Codeforces-aryangupta__-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aryangupta_)
 
 </div>
