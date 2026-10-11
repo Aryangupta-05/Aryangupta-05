@@ -1,18 +1,66 @@
-# 💫 About Me:
-👋 Hi, I’m Aryan<br><br>I’m actively seeking SDE, AI/ML, or Full-Stack Development Internship opportunities where I can apply my skills, learn from real engineering challenges, and contribute to meaningful products.<br><br>🚀 About Me<br><br>🔥 Passionate about Software Development, Machine Learning, and AI-driven products<br><br>🤖 Exploring LLMs, deep learning, model fine-tuning, and AI integrations<br><br>🧠 Interested in building intelligent systems and automating real-world tasks<br><br>💻 Enjoy working across full-stack development, backend architectures, and performance optimization<br><br>⚡ Quick learner, adaptive, and comfortable in fast-paced engineering environments<br><br>🛠️ Love building projects that solve real problems using both software + AI<br><br>📚 Always exploring new technologies, tools, and best practices
+# Hi, I'm Aryan Gupta
 
+### Backend Development · Applied AI · Problem Solving
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Levi_5903) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/aryan-gupta-871577240) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aryangupta050903@gmail.com) 
+I build backend services and AI-powered applications with Python, FastAPI, Node.js and modern databases. My projects span document Q&A with RAG, social platforms and C++ network traffic analysis.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aryangupta-05&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aryangupta-05&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aryangupta-05&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+I'm pursuing a **B.Tech in Electronics and Communication Engineering at BIT Mesra (2023–2027)** with a **CGPA of 8.49/10**, and I'm looking for **software, backend and AI/ML internship opportunities**.
 
----
-[![](https://visitcount.itsvg.in/api?id=Aryangupta-05&icon=0&color=0)](https://visitcount.itsvg.in)
+[Email](mailto:aryangupta050903@gmail.com) · [LinkedIn](https://www.linkedin.com/in/aryan-gupta-871577240/) · [Portfolio](https://aryanportfolio-theta.vercel.app) · [LeetCode](https://leetcode.com/u/aryangupta_/)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Featured projects
+
+### [DocuMind — RAG Document Assistant](https://github.com/Aryangupta-05/document-qa-rag-Documind)
+
+Upload documents and ask questions through a conversational interface with streamed answers and follow-up suggestions. Built with **FastAPI, PostgreSQL, FAISS, SentenceTransformers, LangChain and React**, with **Redis query caching and rate limiting** and Docker support. Query caching uses a **1-hour TTL**, reducing query latency from **2.5 seconds to under 15 milliseconds**.
+
+[Source code](https://github.com/Aryangupta-05/document-qa-rag-Documind) · [Video demo](https://drive.google.com/file/d/1PqMBUXxCzTodIP-RXzxcH-pqV_ddzhz_/view?usp=sharing)
+
+### [Tweetie — Social Media Platform](https://github.com/Aryangupta-05/Tweetie)
+
+A **MERN** application with JWT authentication in HTTP-only cookies, posts, likes, comments, follows and notifications. Built a time-decay feed-ranking system with background score computation, integrated **AWS S3** for media storage, and deployed the backend on **AWS EC2 with PM2**.
+
+[Source code](https://github.com/Aryangupta-05/Tweetie) · [Live demo](https://tweetie-five.vercel.app/login)
+
+### [DPI Engine — Deep Packet Inspection](https://github.com/Aryangupta-05/Packet_Analyser)
+
+Co-developed a **C++17** traffic-analysis project with PCAP parsing, multithreading, TLS SNI/HTTP/DNS inspection, bidirectional flow tracking and rule-based filtering. The engine sustains **10,000+ packets per second on a single core** and produces filtered PCAP output.
+
+[Source code](https://github.com/Aryangupta-05/Packet_Analyser)
+
+## Experience
+
+**Software Developer Intern — QOE Technologies and Services**  
+May–June 2026 · Remote
+
+Built React, Node.js, Express and MongoDB features for Soul Consciousness Lab, including validated REST APIs, CRUD operations and structured error handling. Improved frontend performance by reducing redundant requests and re-renders and adding lazy loading.
+
+## Open source
+
+**Minikube:** Submitted [PR #23835](https://github.com/kubernetes/minikube/pull/23835) to reuse disk-image helpers across drivers, propagate filesystem errors and add regression tests. The pull request is currently **open**.
+
+## Tech stack
+
+| Area | Technologies |
+|---|---|
+| Languages | C++, Python, JavaScript, SQL |
+| Backend | FastAPI, Node.js, Express.js, REST APIs, JWT, SQLAlchemy, Mongoose |
+| Data | PostgreSQL, MongoDB, MySQL, Redis, FAISS |
+| AI | RAG, LLM integration, LangChain, SentenceTransformers, semantic search |
+| Frontend | React, TanStack Query |
+| Cloud & tooling | AWS EC2, AWS S3, Docker, GitHub Actions, PM2, Git, Linux |
+
+## Problem solving
+
+- **750+** DSA problems solved across LeetCode, Codeforces and CodeChef.
+- **LeetCode Knight** — maximum rating **1943**, top **3.5%**.
+- **Codeforces Pupil** — maximum rating **1246**.
+- **CodeChef 3-star** — maximum rating **1639**.
+
+[LeetCode](https://leetcode.com/u/aryangupta_/) · [Codeforces](https://codeforces.com/profile/aryangupta_) · [CodeChef](https://www.codechef.com/users/itss_levi)
+
+## Currently exploring
+
+LLMs, model fine-tuning, backend system design and open-source engineering.
+
+Interested in working together? Reach me at **[aryangupta050903@gmail.com](mailto:aryangupta050903@gmail.com)**.
