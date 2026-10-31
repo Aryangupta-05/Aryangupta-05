@@ -155,13 +155,55 @@ May–June 2026 · Remote
 
 ---
 
+## 🗂️ All projects
+
+The featured projects above are a starting point. Explore the rest of my public projects and experiments below.
+
+<details>
+<summary><b>Explore all 12 projects & experiments</b></summary>
+
+| Project | What it's about |
+|:---|:---|
+| [DocuMind](https://github.com/Aryangupta-05/document-qa-rag-Documind) | RAG document assistant and streamed Q&A |
+| [Tweetie](https://github.com/Aryangupta-05/Tweetie) | Social platform with a Gemini writing assistant |
+| [DPI Engine](https://github.com/Aryangupta-05/Packet_Analyser) | Group project: offline C++ packet inspection |
+| [Rice Leaf Disease Detection](https://github.com/Aryangupta-05/Rice_Leaf_Detection) | Computer vision and disease classification |
+| [MoneyMapper.ai](https://github.com/Aryangupta-05/MoneyMapper.ai) | Personal finance and receipt scanning |
+| [Windward](https://github.com/Aryangupta-05/vqm7x9kp) | Historical wind forecast analysis |
+| [CreditSea](https://github.com/Aryangupta-05/CreditSea-Fullstack-Assignment) | XML credit-report processing and dashboard |
+| [Listing / ROAM-AN](https://github.com/Aryangupta-05/Listing-wesbite) | Rental listings, authentication, and reviews |
+| [Portfolio Website](https://github.com/Aryangupta-05/Portfolio-website) | My work, experience, and engineering decisions |
+| [MacBook Landing Page](https://github.com/Aryangupta-05/macbook_landing_page) | Product presentation and frontend experiment |
+| [Valentine's Week](https://github.com/Aryangupta-05/Valentines_week) | Interactive web experiment |
+| [Food Sharing Site](https://github.com/Aryangupta-05/Food-Sharing-Site) | Early project repository |
+
+</details>
+
+**Learning & practice:** [System design notes](https://github.com/Aryangupta-05/system-design-notes) · [Interview questions](https://github.com/Aryangupta-05/Tech-OA-Interview-Questions)
+
+[![Browse All Repositories](https://img.shields.io/badge/Browse%20All%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Aryangupta-05?tab=repositories)
+
+---
+
 <div align="center">
 
-## 📬 Let's connect
+## 🤝 Let's build something useful.
 
-Open to **AI engineering, AI/ML, backend, and full-stack internships**.
+Have an **AI problem to solve**, a **backend to build**, or an opportunity to learn with your team? I'd love to hear about it.
 
-[Resume](https://aryanportfolio-theta.vercel.app/Aryan_Gupta_Resume.pdf) · [Portfolio](https://aryanportfolio-theta.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/aryan-gupta-871577240/) · [Email](mailto:aryangupta050903@gmail.com)  
-[LeetCode](https://leetcode.com/u/aryangupta_/) · [CodeChef](https://www.codechef.com/users/itss_levi) · [Codeforces](https://codeforces.com/profile/aryangupta_)
+**Open to AI engineering, AI/ML, backend, and full-stack internships.**
+
+[![Resume](https://img.shields.io/badge/Resume-The%20one--pager-22C55E?style=for-the-badge&logo=readthedocs&logoColor=white)](https://aryanportfolio-theta.vercel.app/Aryan_Gupta_Resume.pdf)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore%20my%20work-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://aryanportfolio-theta.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-gupta-871577240/)
+[![Email](https://img.shields.io/badge/Email-Start%20a%20conversation-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryangupta050903@gmail.com)
+
+<br/>
+
+**When I'm not building, I'm solving.**
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/u/aryangupta_/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white)](https://www.codechef.com/users/itss_levi)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aryangupta_)
 
 </div>
