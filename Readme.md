@@ -77,16 +77,6 @@ Group project.
 
 ---
 
-### 🏡 [Listing — Rental Platform](https://github.com/Aryangupta-05/Listing-wesbite)
-
-**Node.js · Express · MongoDB · EJS · Cloudinary**
-
-A full-stack rental listing application with authentication, listing management, reviews, ratings, and media uploads.
-
-[Source code](https://github.com/Aryangupta-05/Listing-wesbite) · [Live demo](https://listing-website-modc.onrender.com/)
-
----
-
 ## 🌍 Open-source contributions
 
 Selected merged upstream fixes:
