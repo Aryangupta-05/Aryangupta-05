@@ -94,6 +94,10 @@ May–June 2026 · Remote
 
 <div align="center">
 
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-0F766E?style=flat-square&logo=langgraph&logoColor=white)
+![GraphRAG](https://img.shields.io/badge/GraphRAG-7C3AED?style=flat-square)
+![RAG Pipelines](https://img.shields.io/badge/RAG%20Pipelines-2563EB?style=flat-square)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -115,7 +119,7 @@ May–June 2026 · Remote
 | Area | Technologies |
 | --- | --- |
 | Languages | C++, Python, TypeScript, JavaScript, SQL |
-| AI & ML | Generative AI, machine learning, deep learning, LLMs, RAG, LangChain, SentenceTransformers, FAISS, vector search |
+| AI & ML | Generative AI, machine learning, deep learning, LLMs, RAG Pipelines, LangChain, LangGraph, GraphRAG, SentenceTransformers, FAISS, vector search |
 | Backend | FastAPI, Node.js, Express, REST APIs, JWT, SQLAlchemy, Mongoose |
 | Data | PostgreSQL, MySQL, MongoDB, Redis |
 | Frontend | React, TanStack React Query |
