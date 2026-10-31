@@ -1,17 +1,42 @@
-# Aryan Gupta
+<div align="center">
+
+# 👨‍💻 Aryan Gupta
 
 ### Applied AI · Backend Engineering · Full-Stack Development
 
-I build document AI applications, APIs, and systems projects with Python, TypeScript, JavaScript, and C++. I am interested in AI engineering and AI/ML opportunities, with backend and full-stack development as supporting strengths.
+**Building useful AI applications and dependable backend systems.**
 
-**B.Tech, Electronics and Communication Engineering · BIT Mesra · 2023–2027 · CGPA: 8.49/10**  
-Previously **Software Developer Intern at QOE Technologies and Services** (May–June 2026, remote).
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20my%20work-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://aryanportfolio-theta.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aryan%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-gupta-871577240/)
+[![Email](https://img.shields.io/badge/Email-Let's%20connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryangupta050903@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Knight%20%C2%B7%20Max%201943-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/aryangupta_/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-3%20Star%20%C2%B7%20Max%201639-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/itss_levi)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Pupil-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aryangupta_)
 
-[Portfolio](https://aryanportfolio-theta.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/aryan-gupta-871577240/) · [Email](mailto:aryangupta050903@gmail.com) · [LeetCode](https://leetcode.com/u/aryangupta_/) · [CodeChef](https://www.codechef.com/users/itss_levi) · [Codeforces](https://codeforces.com/profile/aryangupta_)
+<br/>
 
-## Featured projects
+🎓 **BIT Mesra** · B.Tech, Electronics & Communication Engineering · **2023–2027**  
+📚 **CGPA: 8.49/10** · 💼 Former Software Developer Intern, **QOE Technologies and Services**  
+🎯 Open to **AI engineering, AI/ML, backend, and full-stack internships**
 
-### [DocuMind — RAG Document Assistant](https://github.com/Aryangupta-05/document-qa-rag-Documind)
+</div>
+
+---
+
+## 👋 About me
+
+I build document AI applications, APIs, and systems projects with **Python, TypeScript, JavaScript, and C++**.
+
+- 🤖 **Applied AI:** RAG pipelines, semantic retrieval, document Q&A, and streamed LLM responses.
+- ⚙️ **Backend:** FastAPI and Node.js APIs, authentication, PostgreSQL, MongoDB, and Redis.
+- 🛠️ **Systems & open source:** C++ packet inspection and merged upstream fixes in Python and Go projects.
+- 🧩 **Problem solving:** 750+ DSA problems solved; LeetCode Knight with a maximum rating of 1943.
+
+---
+
+## 🚀 Featured engineering projects
+
+### 🤖 [DocuMind — RAG Document Assistant](https://github.com/Aryangupta-05/document-qa-rag-Documind)
 
 **Python · FastAPI · PostgreSQL · Redis · FAISS · LangChain · React · Docker**
 
@@ -23,7 +48,9 @@ Previously **Software Developer Intern at QOE Technologies and Services** (May�
 
 [Source code](https://github.com/Aryangupta-05/document-qa-rag-Documind) · [Video walkthrough](https://drive.google.com/file/d/1PqMBUXxCzTodIP-RXzxcH-pqV_ddzhz_/view?usp=sharing)
 
-### [DPI Engine — Deep Packet Inspection System](https://github.com/Aryangupta-05/Packet_Analyser)
+---
+
+### 🛡️ [DPI Engine — Deep Packet Inspection System](https://github.com/Aryangupta-05/Packet_Analyser)
 
 **C++17 · PCAP · Multithreading · TLS SNI · Flow Tracking**  
 Group project.
@@ -35,7 +62,9 @@ Group project.
 
 [Source code](https://github.com/Aryangupta-05/Packet_Analyser)
 
-### [Tweetie — Social Media Platform](https://github.com/Aryangupta-05/Tweetie)
+---
+
+### 💬 [Tweetie — Social Media Platform](https://github.com/Aryangupta-05/Tweetie)
 
 **React · Node.js · Express · MongoDB · JWT · AWS S3 · EC2 · PM2**
 
@@ -46,7 +75,9 @@ Group project.
 
 [Source code](https://github.com/Aryangupta-05/Tweetie) · [Live demo](https://tweetie-five.vercel.app/login)
 
-### [Listing — Rental Platform](https://github.com/Aryangupta-05/Listing-wesbite)
+---
+
+### 🏡 [Listing — Rental Platform](https://github.com/Aryangupta-05/Listing-wesbite)
 
 **Node.js · Express · MongoDB · EJS · Cloudinary**
 
@@ -54,7 +85,9 @@ A full-stack rental listing application with authentication, listing management,
 
 [Source code](https://github.com/Aryangupta-05/Listing-wesbite) · [Live demo](https://listing-website-modc.onrender.com/)
 
-## Open-source contributions
+---
+
+## 🌍 Open-source contributions
 
 Selected merged upstream fixes:
 
@@ -66,7 +99,9 @@ Selected merged upstream fixes:
 
 [Browse my pull requests](https://github.com/pulls?q=is%3Apr+author%3AAryangupta-05)
 
-## Experience
+---
+
+## 💼 Experience
 
 **Software Developer Intern · QOE Technologies and Services**  
 May–June 2026 · Remote
@@ -75,7 +110,26 @@ May–June 2026 · Remote
 - Reduced duplicate booking records by 90% in controlled repeated-click tests through submission locking and backend duplicate checks.
 - Reduced measured page load time from 3.8 to 2.4 seconds (37%) through lazy loading, removal of redundant API requests, and optimized React re-renders.
 
-## Technical skills
+---
+
+## 🛠️ Technical skills
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-149ECA?style=flat-square&logo=react&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+
+</div>
 
 | Area | Technologies |
 | --- | --- |
@@ -87,26 +141,38 @@ May–June 2026 · Remote
 | Cloud & tooling | AWS EC2/S3, Docker, GitHub Actions, PM2, Vercel, Render, Git, Linux, Postman |
 | Foundations | Data structures and algorithms, OOP, operating systems, DBMS, computer networks, system design |
 
-## Problem solving & achievements
+---
 
-- **750+ DSA problems solved** across LeetCode, Codeforces, and CodeChef.
-- **LeetCode Knight** — maximum rating **1943**; top 3.5% at the recorded milestone.
-- **Global rank 285** in LeetCode Weekly Contest 502 and **1,488** in Biweekly Contest 184.
-- **CodeChef 3-star** — maximum rating **1639**.
-- **Codeforces Pupil** — recorded rating **1246**.
-- **Google The Big Code 2026** — Round 2 qualifier, top 1,500.
-- **JEE Main 2023** — top 3% nationwide.
-- **Captain, BIT Mesra Football Team** — 2025–present.
+## 🏆 Problem solving & achievements
 
-Ratings and counts above are recorded milestones from my resume.
+| Platform / milestone | Achievement |
+|:---|:---|
+| 🟠 [LeetCode](https://leetcode.com/u/aryangupta_/) | **Knight · Max 1943 · Top 3.5%** at the recorded milestone |
+| 🏅 LeetCode contests | **Global Rank 285** — Weekly 502 · **Rank 1,488** — Biweekly 184 |
+| 🟤 [CodeChef](https://www.codechef.com/users/itss_levi) | **3-star · Max 1639** |
+| 🔵 [Codeforces](https://codeforces.com/profile/aryangupta_) | **Pupil · Recorded rating 1246** |
+| 🧩 Problem solving | **750+ DSA problems** across LeetCode, Codeforces, and CodeChef |
+| 💻 Google The Big Code 2026 | **Round 2 qualifier · Top 1,500** |
+| 🎓 JEE Main 2023 | **Top 3% nationwide** |
+| ⚽ Leadership | **Captain, BIT Mesra Football Team · 2025–present** |
 
-## Connect
+<sub>Ratings and problem counts are recorded milestones from my resume.</sub>
 
-Open to AI engineering, AI/ML, backend, and full-stack internship opportunities.
+---
 
-- [Portfolio](https://aryanportfolio-theta.vercel.app/)
-- [LinkedIn](https://www.linkedin.com/in/aryan-gupta-871577240/)
-- [Email: aryangupta050903@gmail.com](mailto:aryangupta050903@gmail.com)
-- [LeetCode: aryangupta_](https://leetcode.com/u/aryangupta_/)
-- [CodeChef: itss_levi](https://www.codechef.com/users/itss_levi)
-- [Codeforces: aryangupta_](https://codeforces.com/profile/aryangupta_)
+<div align="center">
+
+## 📬 Let's connect
+
+Interested in **AI engineering, AI/ML, backend, or full-stack** opportunities and open-source collaboration.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-View%20my%20work-6366F1?style=for-the-badge&logo=vercel&logoColor=white)](https://aryanportfolio-theta.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aryan%20Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryan-gupta-871577240/)
+[![Email](https://img.shields.io/badge/Email-Let's%20connect-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryangupta050903@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Knight%20%C2%B7%20Max%201943-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/aryangupta_/)
+[![CodeChef](https://img.shields.io/badge/CodeChef-3%20Star%20%C2%B7%20Max%201639-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/itss_levi)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Pupil-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/aryangupta_)
+
+**Explore the projects above, or reach out to talk about building together.**
+
+</div>
